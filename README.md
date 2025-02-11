@@ -23,16 +23,27 @@ categorical plots);
 Data was collected from - https://www.realtor.com/ - a real estate listing website operated by the News Corp subsidiary Move, Inc. and based in Santa Clara, California. It is the second most visited real estate listing website in the United States as of 2024, with over 100 million monthly active users. (2,226,382 data entries)
 
   brokered by - categorically encoded agency/broker
+  
   status - housing status - ready for sale or sold
+  
   price - housing price, it is either the current listing price or recently sold price if the house is sold recently
+  
   bed - # of beds
+  
   bath - # of bathrooms
+  
   acre_lot - property/land size in acres
+  
   street - categorically encoded street address
+  
   city - city name
+  
   state - state name
+  
   zip_code - postal code of the area
+  
   house_size - house area/size/living space in square feet
+  
   prev_sold_date - Previously sold date
 
 ## Tools
@@ -40,11 +51,17 @@ Data was collected from - https://www.realtor.com/ - a real estate listing websi
 The following python libraries were used:
 
 ● pandas
+
 ● numpy
+
 ● seaborn
+
 ● matplotlib/matplotlib.pyplot
+
 ● sklearn
+
 ● pylab
+
 ● plotly.express
 
 ## Link to Tableau Dashboard
