@@ -8,7 +8,7 @@ The goal was to use the following skills to analyze and find meaningful patterns
 ● Exploratory analysis through visualizations (scatterplots, correlation heatmaps, pair plots, and
 categorical plots);
 
-● Geospatial analysis using a shapele;
+● Geospatial analysis;
 
 ● Regression analysis;
 
